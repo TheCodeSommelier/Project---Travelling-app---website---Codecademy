@@ -3,6 +3,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: Verdana, sans-serif;
+    scroll-behavior: smooth;
 }
 
 h1 {
